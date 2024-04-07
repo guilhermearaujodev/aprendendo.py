@@ -2,7 +2,7 @@
 #     <ação a ser realizada se a condição for verdadeira>
 # else:
 #     <ação a ser realizada se a condição for falsa>
-# o if composto é utilizado quando queremos fazer algo quando o teste der verdadeiro e algo quando o teste dar falso
+# o if composto é utilizado quando queremos fazer algo quando o teste der verdadeiro e algo quando o teste der falso
 rm = input("Insira seu RM")
 idade = input("Insira sua idade")
 
