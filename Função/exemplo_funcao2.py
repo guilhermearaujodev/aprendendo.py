@@ -6,10 +6,10 @@ def calcularVelocidadeMedia(distancia, tempo):
     print("A velocidade média é {} km/h".format(velocidade_media))
 
 #aqui começa o programa principal
-distancia = float(input("Informe a distância"))
-tempo = float(input("Informe o tempo"))
+dist = float(input("Informe a distância"))
+temp = float(input("Informe o tempo"))
 #chamando a função com valores definidos pelo usuário
-calcularVelocidadeMedia(distancia, tempo)
+calcularVelocidadeMedia(dist, temp)
 
 #chamando a função com valores definidos pelo programador
 calcularVelocidadeMedia(15,2)
