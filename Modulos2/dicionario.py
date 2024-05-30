@@ -17,10 +17,10 @@ dicionario = {
 #for chave in dicionario.keys():
 #    print(chave)
 
-#mostrar o valor
+#mostrar o valor =
 #print(dicionario["R2-D2"])
 
-#mostrar chave e valor
+#mostrar chave e valor = items
 #print(dicionario.items())
 
 for chave, valor in dicionario.items():
